@@ -24,7 +24,7 @@ if question1.lower() == "pawan kalyan":
 else:
     print("INCORRECT")
 question1 = input("who is the director of movie kalki ? ")
-if question1.lower() == "nagaashwin":
+if question1.lower() == "naga ashwin":
     print("CORRECT")
     score += 1
 else:
