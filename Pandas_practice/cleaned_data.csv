@@ -1,0 +1,11 @@
+Product,Price,Stock,Category
+Soap,10.0,50.0,Bath
+Shampoo,20.0,60.0,Bath
+Brush,30.0,100.0,Toiletries
+Toothpaste,,80.0,Toiletries
+Toys,40.0,,Kids
+Shampoo,20.0,60.0,Bath
+Soap,10.0,50.0,Bath
+Phone,5000.0,20.0,Electronics
+Mouse,300.0,,Electronics
+Toothpaste,,80.0,Toiletries
